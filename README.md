@@ -1,2 +1,0 @@
-# PreciousKylaCapuno
-GitHub Profile
