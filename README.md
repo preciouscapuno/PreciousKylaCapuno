@@ -36,4 +36,4 @@ I am **Precious Kyla D. Capuno**, with a flair for coding and database managemen
 
 ## 📫 Reach Me At
 - 🔗 LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/precious-capuno-038ba7374/)
-- 📧 Email: juandelacruz@gmail.com
+- 📧 Email: preciouscapuno21@gmail.com
