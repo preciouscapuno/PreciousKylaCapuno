@@ -12,8 +12,8 @@ I am **Precious Kyla D. Capuno**, with a flair for coding and database managemen
 
 ## 📜 Certifications
 - [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/b17bde5df55f461e90cc92b598847475)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://education.oracle.com/)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://education.oracle.com/)
+- [Oracle Data Platform 2025 Certified Foundations Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC8036000&trackId=OCI25DCFA&key=eed18023d1109b2a233f3b8d894a0cc340bfe520)
+- [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC8036000&trackId=OCI25FNDCFA&key=b56529fbe19e6af6e2ef504d6d23e66a1391ee50)
 
 ---
 
